@@ -1,19 +1,12 @@
-### Hi there 👋
-
-<!--
-**hehuntle/hehuntle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My ✨ _special_ ✨ Data Science Portfolio
 
 
-boop
+Repository containing portfolio of data science projects completed for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks. 
+
+## 🔭 I’m currently working on Exploratory Data Analysis (EDA)
+
+
+📫 _hehuntle@ucsd.edu_
+<br/>
+😄 _she/her_
+
